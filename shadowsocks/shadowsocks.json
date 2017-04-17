@@ -1,7 +1,8 @@
 {
     "server":"0.0.0.0",
     "port_password":{
-	"13381":"password_1"
+	"13881":"TOP_SECRET_1",
+	"13882":"TOP_SECRET_2"
 	},
     "timeout":300,
     "method":"aes-256-cfb",
